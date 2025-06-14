@@ -49,7 +49,7 @@ Before running the application, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ecommerce-app.git
+   git clone https://github.com/AGUNAN/Ecommerce.git
    cd ecommerce-app
    ```
 
